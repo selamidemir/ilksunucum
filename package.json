@@ -1,0 +1,20 @@
+{
+  "name": "ilksunucum",
+  "version": "0.1.0",
+  "description": "Express JS ile basit bir web sunucusu uygulaması. Netbilio ilksunucum yazısı kodları.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon app",
+    "start": "node app"
+  },
+  "keywords": [
+    "express, expressjs, sunucu, web sunucu, express sunucu, ilk sunucum"
+  ],
+  "author": "Selami Demir",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
